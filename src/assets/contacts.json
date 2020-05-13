@@ -1,0 +1,27 @@
+
+[
+    {
+        "id": 1,
+        "firstName": "David",
+        "lastName": "Vang",
+        "email": "hello@gmaster.com",
+        "phone": "559-333-0000",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Jhonny",
+        "lastName": "Appleseed",
+        "email": "yellow@gmaster.com",
+        "phone": "559-333-0000",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Homer",
+        "lastName": "Simpson",
+        "email": "red@gmaster.com",
+        "phone": "559-333-0000",
+        "editing": false
+    }
+]
